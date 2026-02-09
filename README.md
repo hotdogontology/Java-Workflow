@@ -43,8 +43,8 @@ To learn more about these tools, head to the [Getting Started Repo](https://gith
 5. If prompted, choose Open as Project.
 6. If IntelliJ asks whether to trust the project, select Trust Project.
 7. If this is a Java project:
-   -IntelliJ will usually detect and configure it automatically.
-   -If it does not, go to File > Project Structure > Project, and set the Project SDK to the Java version specified by your instructor.
+    - IntelliJ will usually detect and configure it automatically.
+    - If it does not, go to File > Project Structure > Project, and set the Project SDK to the Java version specified by your instructor.
 8. Wait for IntelliJ to finish indexing the project.
 
 Your project is now ready to be worked on in IntelliJ IDEA.
